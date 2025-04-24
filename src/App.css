@@ -15,7 +15,7 @@ body{
   overflow-y: scroll;
   position: relative;
   background-color: #FCF5D8 !important;
-  color:#6D3C52  !important;
+  color:#8e335c  !important;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -269,7 +269,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill h2 {
 	font-size: 45px;
 	font-weight: 700;
-  margin-bottom: 5cm;
+  color:#8e335c  !important;
+  margin-bottom: 1cm;
+}
+
+.skill h5{
+  color: #728C5A !important ;
 }
 .skill p {
     color: #728C5A !important ;
@@ -304,7 +309,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project h2 {
 	font-size: 45px;
 	font-weight: 700;
+  color:#8e335c  !important;
   text-align: center;
+  margin-bottom: 1cm;
 }
 .project p {
   color: #B8B8B8;
@@ -329,7 +336,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-color: transparent;
   border-radius: 0;
   padding: 17px 0;
-  color: #6D3C52;
+  color: #728C5A !important ;
   width: 100%;
   font-size: 17px;
   letter-spacing: 0.8px;
@@ -344,7 +351,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     position: absolute;
     width: 0;
     height: 100%;
-    background: linear-gradient(90.21deg, #a46483 -5.91%, #728C5A 111.58%);
+    background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(114, 140, 90, 0.5) 111.58%);
     top: 0;
     left: 0;
     z-index: -1;
@@ -395,7 +402,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #a46483  -5.91%, #728C5A 111.58%);
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(114, 140, 90, 0.5) 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
@@ -407,8 +414,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .proj-imgbx a {
-  text-decoration: none; /* Remove underline */
-  color: inherit; /* Keep text color consistent */
+  text-decoration: none; 
+  color: inherit; 
 }
 
 
@@ -429,6 +436,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-txtx h4 {
   font-size: 30px;
   font-weight: 700;
+  color: #6D3C52;
   letter-spacing: 0.8px;
   line-height: 1.1em;
 }
@@ -464,7 +472,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer p {
   font-weight: 400;
   font-size: 14px;
-  color: #B8B8B8;
+  color: #728C5A ;
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
