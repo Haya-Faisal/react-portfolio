@@ -45,6 +45,14 @@
     ]
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.26.3"
+    "@babel/preset-react": "^7.26.3",
+    "gh-pages": "^6.3.0"
   }
+}
+
+
+"homepage": "https://Haya-Faisal.github.io/portfolio-website",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 }
