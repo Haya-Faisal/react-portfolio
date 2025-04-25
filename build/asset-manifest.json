@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.dc7e3db0.css",
-    "main.js": "/react-portfolio/static/js/main.b1474064.js",
+    "main.js": "/react-portfolio/static/js/main.32b092ef.js",
     "static/js/453.aac68abc.chunk.js": "/react-portfolio/static/js/453.aac68abc.chunk.js",
+    "static/media/CCimg4.png": "/react-portfolio/static/media/CCimg4.5386f105a4b1cdb316fe.png",
     "static/media/skillsbg.png": "/react-portfolio/static/media/skillsbg.b5c142886231d0d269cf.png",
     "static/media/wdimg1.png": "/react-portfolio/static/media/wdimg1.71267452cc5427dee66d.png",
     "static/media/CCimg2.png": "/react-portfolio/static/media/CCimg2.54bd596f8f6ec83cacc5.png",
     "static/media/firstpagenobg.png": "/react-portfolio/static/media/firstpagenobg.46a9e370d1e7f7f27043.png",
     "static/media/logo4.png": "/react-portfolio/static/media/logo4.a1b569ac05b7970f7eda.png",
     "static/media/CCimg1.png": "/react-portfolio/static/media/CCimg1.6ca58dc0a2b20274d4b1.png",
+    "static/media/CCimg3.png": "/react-portfolio/static/media/CCimg3.b39742bb7dcc184c8532.png",
     "static/media/dragonfly.png": "/react-portfolio/static/media/dragonfly.04e8269f348cafee2003.png",
     "static/media/revicons.eot": "/react-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-portfolio/index.html",
     "main.dc7e3db0.css.map": "/react-portfolio/static/css/main.dc7e3db0.css.map",
-    "main.b1474064.js.map": "/react-portfolio/static/js/main.b1474064.js.map",
+    "main.32b092ef.js.map": "/react-portfolio/static/js/main.32b092ef.js.map",
     "453.aac68abc.chunk.js.map": "/react-portfolio/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7e3db0.css",
-    "static/js/main.b1474064.js"
+    "static/js/main.32b092ef.js"
   ]
 }
