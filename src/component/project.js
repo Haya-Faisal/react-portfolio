@@ -2,6 +2,8 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import creativecodingimg1 from "../assets/CCimg1.png";
 import creativecodingimg2 from "../assets/CCimg2.png";
+import creativecodingimg3 from "../assets/CCimg3.png"
+import creativecodingimg4 from "../assets/CCimg4.png"
 import webdevelopmentimg1 from "../assets/wdimg1.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -34,6 +36,18 @@ export const Projects = () => {
       description: "Creative Coding",
       imgUrl: creativecodingimg2,
       url: "https://editor.p5js.org/Haya-Faisal/full/n-Rnf-HDS",
+    },
+    {
+      title: "Blooming, Drifting and Fading",
+      description: "Creative Coding",
+      imgUrl: creativecodingimg3,
+      url: "https://editor.p5js.org/Haya-Faisal/full/MJOfoaSLf",
+    },
+    {
+      title: "Fractals",
+      description: "Creative Coding",
+      imgUrl: creativecodingimg4,
+      url: "https://editor.p5js.org/Haya-Faisal/full/nbyO-nUY_",
     },
   ];
 
