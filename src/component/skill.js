@@ -8,6 +8,7 @@ import { IoLogoJavascript } from "react-icons/io";
 import { FaCss3Alt } from "react-icons/fa";
 import { SiP5Dotjs } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
+import { SiVite } from "react-icons/si";
 
 
 
@@ -68,6 +69,10 @@ export const Skill = () => {
                             <div className="item">
                                 <TbBrandReactNative style={{ fontSize: "48px" }} />
                                 <h5>React Native</h5>
+                            </div>
+                            <div className="item">
+                                <SiVite style={{ fontSize: "48px" }} />
+                                <h5>Vite</h5>
                             </div>
                         </Carousel>
                     </div>

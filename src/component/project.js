@@ -2,9 +2,12 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import creativecodingimg1 from "../assets/CCimg1.png";
 import creativecodingimg2 from "../assets/CCimg2.png";
-import creativecodingimg3 from "../assets/CCimg3.png"
-import creativecodingimg4 from "../assets/CCimg4.png"
+import creativecodingimg3 from "../assets/CCimg3.png";
+import creativecodingimg4 from "../assets/CCimg4.png";
+import creativecodingimg5 from "../assets/CCimg5.png";
+import creativecoding6 from "../assets/CCimg6.png";
 import webdevelopmentimg1 from "../assets/wdimg1.png";
+import webdevelopment2 from "../assets/wdimg2.png"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -16,6 +19,12 @@ export const Projects = () => {
       imgUrl: webdevelopmentimg1,
       url: "https://example.com/web-project-1",
     },
+    {
+      title:"To-do list",
+      description:"Web Development",
+      imgUrl:webdevelopment2,
+      url:"https://haya-faisal.github.io/todo-list/"
+    },
     // {
     //   title: "Web Project 2",
     //   description: "Web Development",
@@ -25,6 +34,12 @@ export const Projects = () => {
   ];
 
   const creativeCodingProjects = [
+    {
+      title:"Rant it out!",
+      description:"Speak after playing the project to see your words come to life",
+      imgUrl:creativecodingimg5,
+      url:"https://editor.p5js.org/Haya-Faisal/sketches/5W9ESFahe"
+    },
     {
       title: "Friends and Foes",
       description: "Creative Coding",
@@ -48,6 +63,12 @@ export const Projects = () => {
       description: "Creative Coding",
       imgUrl: creativecodingimg4,
       url: "https://editor.p5js.org/Haya-Faisal/full/nbyO-nUY_",
+    },
+    {
+      title:"AquaBuddy",
+      description:"This project is made by utilizing vectors and seek function.",
+      imgUrl:creativecoding6,
+      url:"https://editor.p5js.org/Haya-Faisal/full/K6CQ8Ve4i",
     },
   ];
 
