@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #728C5A;
+  color: #396b0a;
 }
 
 /* .App-link {
@@ -207,7 +207,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: block;
 }
 .banner p {
-  color: #728C5A;
+  color: #407212;
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
