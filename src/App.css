@@ -403,7 +403,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(114, 140, 90, 0.5) 111.58%);
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.784) -5.91%, rgba(114, 140, 90, 0.801) 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
@@ -437,13 +437,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-txtx h4 {
   font-size: 30px;
   font-weight: 700;
-  color: #6D3C52;
+  color: #FFEBAE;
   letter-spacing: 0.8px;
   line-height: 1.1em;
 }
 .proj-txtx span {
   font-style: italic;
   font-weight: 400;
+  color:#FFEBAE;
   font-size: 15px;
   letter-spacing: 0.8px;
 }
